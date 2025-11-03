@@ -13,6 +13,7 @@ https://tanyajs.github.io/ma1805-portfolio/
 
 
 Hello,
+Please may you look at my multiples and movement individually they are not working on the links...
 This is not my first time coding, however, i have never really enjoyed coding but i found this one particularly quite enjoyable because we were allowed to be creative in different ways through each of the prompts. 
 Starting with Movement, at the start I had to try get used to the codes and realised it really was rather simpler than i thought but it was still very confusing at the start which is why it is very basic..
 
