@@ -1,4 +1,4 @@
-let theText = ["hello", "there", "hi", "hiya", "good evening", "afternoon", "morning"];
+let theText = ["fall", "falling", "fall", "in","love", "again", "again", "again", "again"];
 let word = theText[0];
 let i = 0 
 
